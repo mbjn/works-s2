@@ -85,7 +85,9 @@ footer {
     margin-right:auto ;
     background-color:ghostwhite;
     text-align: center;
-    justify-content:center;
+    justify-content:space-around;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-top: 100px;
   }
    
